@@ -10,3 +10,6 @@ To install: import the project into Eclipse and run the game.
 Prerequisites:
 -JDK 1.8
 -Latest version of Java Eclipse
+
+Acknowledgments:
+My partners: Elad Massad, Nir Ostri
