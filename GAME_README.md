@@ -8,4 +8,5 @@ The objective is to get to the yellow door at the end of each level while avoidi
 To install: import the project into Eclipse and run the game.
 
 Prerequisites:
-Latest version of Java Eclipse.
+-JDK 1.8
+-Latest version of Java Eclipse
