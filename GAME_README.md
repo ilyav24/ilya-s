@@ -12,4 +12,4 @@ Prerequisites:
 -Latest version of Java Eclipse
 
 Acknowledgments:
-My partners: Elad Massad, Nir Ostri
+My partners Elad Massad, Nir Ostri
